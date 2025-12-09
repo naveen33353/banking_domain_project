@@ -1,6 +1,5 @@
 package com.aitrich.bank;
 
-public class Customer {
-	
+public class BankingDomain {
 
 }
